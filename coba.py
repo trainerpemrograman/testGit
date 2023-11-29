@@ -1,1 +1,1 @@
-print("ini adalah test2")
+print("ini adalah test2 main")
